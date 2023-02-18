@@ -6,7 +6,7 @@
 
 <h4> 🧑‍💻 SUNGMIN KANG </h4>
 
-🎓 MS in Artificial Intelligence 
+<h4> 🎓 MS in Artificial Intelligence </h4>
 Artificial Intelligence,<a href = "[http://meaningone.tistory.com](https://aix.dongguk.edu/)">   DGU   </a>, Republic of Korea
 
 💖 Interesting
