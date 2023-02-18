@@ -10,7 +10,7 @@
 <h4> Artificial Intelligence,  DGU, Republic of Korea </h4>
 
 💖 Interesting
-Medical image (X-ray, MRI) analysis
+Medical image (X-ray, MRI) analysis &nbsp
 Machine learning & Deep learning 
 
 
