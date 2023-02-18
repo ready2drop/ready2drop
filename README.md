@@ -13,7 +13,10 @@ Brain-Computer Interface laboratory, Biomedical engineering, UNIST, Republic of 
 Medical image (X-ray, MRI) analysis
 Machine learning & Deep learning -->
 
+
+
+
 <div align=center> 
 
-<img src="https://img.shields.io/badge/Velog-#20C997?style=for-the-badge&logo=Python&logoColor=white">
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:0kangsungmin@gmail.com)
 </div>
