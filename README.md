@@ -4,7 +4,7 @@
 
 </div>
 
-🧑‍💻 SUNGMIN KANG
+<h4> 🧑‍💻 SUNGMIN KANG </h4>
 
 <!-- 🎓 MS in Artificial Intelligence 
 Brain-Computer Interface laboratory, Biomedical engineering, UNIST, Republic of Korea
