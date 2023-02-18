@@ -25,7 +25,7 @@ Machine learning & Deep learning -->
 </div>
 
 <p align="center">
-  <a href="https://velog.io/@rkdtjdals97"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@rkdtjdals97"/></a>&nbsp
+  <a href="https://velog.io/@rkdtjdals97"><img src="https://img.shields.io/badge/Ready2drop-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@rkdtjdals97"/></a>&nbsp
   <a href="mailto:0kangsungmin@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=0kangsungmin@gmail.com"/></a>
 </p>
 
