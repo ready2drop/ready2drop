@@ -15,5 +15,5 @@ Machine learning & Deep learning -->
 
 <div align=center> 
 
-<img src="https://img.shields.io/badge/Velog-#20C997?style=for-the-badge&logo=velog&logoColor=white">
+<img src="https://img.shields.io/badge/Velog-#20C997?style=for-the-badge&logo=python&logoColor=white">
 </div>
