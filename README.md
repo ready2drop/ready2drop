@@ -6,12 +6,12 @@
 
 <h4> 🧑‍💻 SUNGMIN KANG </h4>
 
-<h4> 🎓 MS in Artificial Intelligence </h4>
+<!-- <h4> 🎓 MS in Artificial Intelligence </h4>
 <h4> Artificial Intelligence,  DGU, Republic of Korea </h4>
 
 💖 Interesting
-Medical image (X-ray, MRI) analysis &nbsp
-Machine learning & Deep learning 
+Medical image (X-ray, MRI) analysis 
+Machine learning & Deep learning  -->
 
 
 
