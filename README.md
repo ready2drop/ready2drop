@@ -17,5 +17,5 @@ Machine learning & Deep learning -->
 
 
 <div align=center> 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:0kangsungmin@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:0kangsungmin@gmail.com)
 </div>
