@@ -6,12 +6,12 @@
 
 <h4> 🧑‍💻 SUNGMIN KANG </h4>
 
-<!-- 🎓 MS in Artificial Intelligence 
-Brain-Computer Interface laboratory, Biomedical engineering, UNIST, Republic of Korea
+🎓 MS in Artificial Intelligence 
+Artificial Intelligence,<a href = "[http://meaningone.tistory.com](https://aix.dongguk.edu/)">   DGU   </a>, Republic of Korea
 
-💖 Interest
+💖 Interesting
 Medical image (X-ray, MRI) analysis
-Machine learning & Deep learning -->
+Machine learning & Deep learning 
 
 
 
