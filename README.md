@@ -20,4 +20,6 @@ Machine learning & Deep learning -->
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0kangsungmin@gmail.com)](mailto:0kangsungmin@gmail.com)
  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@eungyeole) 
+
 </div>
