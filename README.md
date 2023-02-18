@@ -17,6 +17,6 @@ Machine learning & Deep learning -->
 
 
 <div align=center> 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@ready2drop)]
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:0kangsungmin@gmail.com)]
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@ready2drop)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:0kangsungmin@gmail.com)]
 </div>
