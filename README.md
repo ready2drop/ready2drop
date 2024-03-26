@@ -1,8 +1,6 @@
 <div align=center> 
 
-
-
-<h2> 🧑‍💻 SUNGMIN KANG <a href="mailto:0kangsungmin@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=0kangsungmin@gmail.com"/></a></h2>
+<h2> SUNGMIN KANG <a href="mailto:0kangsungmin@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=0kangsungmin@gmail.com"/></a></h2>
 
 <h2>🔭 I’m currently working on</h2>
 
