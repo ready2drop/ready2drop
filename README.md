@@ -4,13 +4,24 @@
 
 </div>
 
-<h4> 🧑‍💻 SUNGMIN KANG </h4>
+<h2> 🧑‍💻 SUNGMIN KANG </h2>
 
 <h2>🔭 I’m currently working on</h2>
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <br>
+<img src="https://img.shields.io/badge/Tensorflow-235C3EE8?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white"/></a> 
+
+<h2>🌱 I’m currently learning</h2>
+
+<img src="https://img.shields.io/badge/MachineVision-000000?style=flat-square&logo=OpenAI"/></a>
+<img src="https://img.shields.io/badge/DeepLearning-000000?style=flat-square&logo=OpenAI"/></a>
+<img src="https://img.shields.io/badge/ComputerVision-000000?style=flat-square&logo=OpenAI"/></a>
+<img src="https://img.shields.io/badge/ObjectDetection-000000?style=flat-square&logo=OpenAI"/></a>
+<img src="https://img.shields.io/badge/AnomalyDetection-000000?style=flat-square&logo=OpenAI"/></a>
+<img src="https://img.shields.io/badge/ImageSegmentation-000000?style=flat-square&logo=OpenAI"/></a>
 
 <!-- <h4> 🎓 MS in Artificial Intelligence </h4>
 <h4> Artificial Intelligence,  DGU, Republic of Korea </h4>
