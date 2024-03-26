@@ -12,13 +12,11 @@
 <img src="https://img.shields.io/badge/Tensorflow-235C3EE8?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 
-<h2>🌱 I’m currently learning</h2>
-
-<img src="https://img.shields.io/badge/MachineVision-000000?style=flat-square&logo=OpenAI"/></a>
+<h2>🔦 I’m currently learning</h2>
 <img src="https://img.shields.io/badge/DeepLearning-000000?style=flat-square&logo=OpenAI"/></a>
+<img src="https://img.shields.io/badge/MultimodalLearning-000000?style=flat-square&logo=OpenAI"/></a>
 <img src="https://img.shields.io/badge/ComputerVision-000000?style=flat-square&logo=OpenAI"/></a>
 <img src="https://img.shields.io/badge/ObjectDetection-000000?style=flat-square&logo=OpenAI"/></a>
-<img src="https://img.shields.io/badge/AnomalyDetection-000000?style=flat-square&logo=OpenAI"/></a>
 <img src="https://img.shields.io/badge/ImageSegmentation-000000?style=flat-square&logo=OpenAI"/></a>
 
 </div>
