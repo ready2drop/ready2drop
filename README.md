@@ -6,12 +6,19 @@
 
 <h4> 🧑‍💻 SUNGMIN KANG </h4>
 
+<h2>🔭 I’m currently working on</h2>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <br>
+
 <!-- <h4> 🎓 MS in Artificial Intelligence </h4>
 <h4> Artificial Intelligence,  DGU, Republic of Korea </h4>
 
 💖 Interesting
 Medical image (X-ray, MRI) analysis 
 Machine learning & Deep learning  -->
+
 
 
 
