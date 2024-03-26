@@ -2,8 +2,6 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fready2drop&count_bg=%235EF506&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
 
-</div>
-
 <h2> 🧑‍💻 SUNGMIN KANG </h2>
 
 <h2>🔭 I’m currently working on</h2>
@@ -23,12 +21,10 @@
 <img src="https://img.shields.io/badge/AnomalyDetection-000000?style=flat-square&logo=OpenAI"/></a>
 <img src="https://img.shields.io/badge/ImageSegmentation-000000?style=flat-square&logo=OpenAI"/></a>
 
-<!-- <h4> 🎓 MS in Artificial Intelligence </h4>
-<h4> Artificial Intelligence,  DGU, Republic of Korea </h4>
+</div>
 
-💖 Interesting
-Medical image (X-ray, MRI) analysis 
-Machine learning & Deep learning  -->
+
+
 
 
 
